@@ -1,2 +1,3 @@
 # ankitrepo-demo
-this is repositiry
+this is my first repositiry
+author- ankit
